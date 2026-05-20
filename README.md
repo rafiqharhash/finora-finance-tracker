@@ -2,7 +2,7 @@
 
 Finora is a modern, full-stack personal finance tracking application designed for students, freelancers, and young professionals. It features a premium, responsive UI with glassmorphism effects, smooth animations, and actionable AI-driven financial insights.
 
-![Finora Dashboard](https://via.placeholder.com/800x450.png?text=Finora+Dashboard)
+![Finora Dashboard](images/dashboard.png)
 
 ## Features
 
